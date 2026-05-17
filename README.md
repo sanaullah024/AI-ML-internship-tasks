@@ -1,5 +1,6 @@
 # AI-ML-internship-tasks
 Task #:1. Predict Future Stock Prices
+
 feat: implement short-term stock price prediction using Yahoo Finance data
 
 Added data collection using yfinance
